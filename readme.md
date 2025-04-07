@@ -1,7 +1,7 @@
 
 
 # maquinas
-![Texto alternativo]("https://github.com/lastHunter956/lab_etico_talento_tech/blob/main/imagenes/Pasted-image-20241019070352.png?raw=true")
+![Texto alternativo](./imagenes/Pasted-image-20241019070352.png)
 
 envio de archivo malicioso:
 
