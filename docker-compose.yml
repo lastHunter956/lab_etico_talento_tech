@@ -1,0 +1,21 @@
+services:
+  kali_machine:
+    build: .
+    volumes:
+      - ./workspace:/workspace
+    tty: true
+    networks:
+      - kali_net
+    restart: always
+
+  metasploit:
+    image: kalilinux/kali-rolling
+    container_name: metasploit3
+    command: /bin/bash -c "apt-get update && apt-get install -y metasploit-framework && msfconsole"
+    tty: true
+    networks:
+      - kali_net
+    restart: always
+
+networks:
+  kali_net:
