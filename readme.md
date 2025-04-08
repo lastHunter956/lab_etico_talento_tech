@@ -1,6 +1,8 @@
 # 📄 Informe de Laboratorio de Hacking Ético  
 **Diplomado de Ciberseguridad - Emulación de Ataque de Conexión Remota**
 
+![Banner](./imagenes/imagen1.png)
+
 ## 🧪 Introducción
 
 En el marco del diplomado de ciberseguridad, se realizó un laboratorio práctico de **Ciberseguridad Basico** enfocado en la **emulación de un ataque de acceso remoto**. El objetivo principal fue demostrar cómo un atacante puede establecer una conexión remota con una máquina víctima mediante ingeniería social y técnicas de evasión de antivirus.
